@@ -1,0 +1,27 @@
+---
+title: "Ripples and Waves"
+output: html_document
+theme: cerulean
+---
+
+![](a.jpg)
+
+![](b.jpg)
+
+![](ripple.jpg)
+
+![](c.jpg)
+
+
+
+
+
+![](d.jpg)
+
+![](e.jpg)
+
+![](f.jpg)
+
+![](g.jpg)
+
+![](h.jpg)

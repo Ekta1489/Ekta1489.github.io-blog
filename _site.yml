@@ -1,0 +1,22 @@
+name: "My Pink Camera Bag!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Sunsets"
+      href: sunsets.html
+    - text: "Ripples and Waves"
+      href: ripples.html  
+    - text: "NYC"
+      href: NYC.html
+    - icon: fa-envelope fa-lg
+      href: mailto:doctorekta1489@gmail.com
+    - icon: fa-instagram fa-lg
+      href: https://www.instagram.com/drekta_chaudhary/
+    - icon: fa-squarespace fa-lg
+      href: https://www.mypinkcamerabag.com
+output:
+  html_document:
+    theme: flatly
+    
+    

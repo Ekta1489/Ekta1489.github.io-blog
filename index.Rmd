@@ -1,0 +1,27 @@
+---
+title: "My Pink Camera Bag"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: flatly
+---
+
+Welcome to **My pInK CaMeRA bAG** 
+
+You can check out the blog on [Squarespace](https://www.mypinkcamerabag.com)
+
+![](pink2.jpg)
+
+
+# About
+
+![](me3.jpg)
+
+Nature and Camera are my best friends :) Whenever I see something pretty, I open my pink camera bag and capture the moment <3 <3 
+To me, photography is an art of observation. It’s about finding something interesting in an ordinary place…I’ve found it has little to do with the things you see and everything to do with the way you see them….
+
+Love,
+
+Ekta Chaudhary
+

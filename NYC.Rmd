@@ -1,0 +1,43 @@
+---
+title: "NYC"
+output: html_document
+theme: flatly
+---
+
+![](z.jpg)
+
+
+![](y.jpg)
+
+
+![](x.jpg)
+
+
+![](w.jpg)
+
+
+![](v.jpg)
+
+
+
+
+![](t.jpg)
+
+
+![](s.jpg)
+
+
+![](r.jpg)
+
+
+![](q.jpg)
+
+
+![](p.jpg)
+
+
+
+
+
+
+!
