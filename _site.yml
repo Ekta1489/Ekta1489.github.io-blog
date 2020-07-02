@@ -9,6 +9,8 @@ navbar:
       href: ripples.html  
     - text: "NYC"
       href: NYC.html
+    - text: "Food"
+      href: food.html 
     - icon: fa-envelope fa-lg
       href: mailto:doctorekta1489@gmail.com
     - icon: fa-instagram fa-lg
