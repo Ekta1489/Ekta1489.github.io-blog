@@ -1,0 +1,29 @@
+---
+title: "Food"
+output: html_document
+theme: flatly
+---
+
+![](ec.jpg)
+
+
+![](ect.jpg)
+
+![](ecta.jpg)
+
+
+![](abc.jpg)
+
+![](def.jpg)
+
+![](ghi.jpg)
+
+![](jkl.jpg)
+
+![](mno.jpg)
+
+
+![](pqr.jpg)
+
+![](stu.JPG)
+
